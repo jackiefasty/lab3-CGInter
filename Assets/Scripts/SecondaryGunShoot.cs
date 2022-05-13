@@ -82,6 +82,8 @@ public class SecondaryGunShoot : MonoBehaviour
         //LayerMask shootable_layerMask = LayerMask.GetMask("Default"); //get if not working, try  with layerMask = ~layerMask;
 
         // Does the ray intersect any objects excluding the player layer ?
+
+        
         if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out shootHit, Mathf.Infinity, layerMask)) //if there is a rock in the front (...i.e. if it hits something)
         {
             gunLine.SetPosition(1, transform.TransformDirection(Vector3.forward) * shootHit.distance); //ray should be stopped by the object being hit
