@@ -60,7 +60,7 @@ public class RadarAlarm : MonoBehaviour
         }
 
         // Call the Spawn function after a delay of the spawnTime and then continue to call after the same amount of time.
-        //InvokeRepeating("Spawn", 3f, 3f);
+        InvokeRepeating("Spawn", 3f, 3f);
     }
 
     public void OnTriggerExit(Collider other) //to make Radar detect the tank
@@ -72,7 +72,7 @@ public class RadarAlarm : MonoBehaviour
             lineRenderer.material.color = new Color(0.0f, 1.0f, 0.0f, 1); //ring turns green, we create new color each time to be used in public void methods
         }
 
-        //CancelInvoke("Spawn");
+        CancelInvoke("Spawn");
     }
 
 
