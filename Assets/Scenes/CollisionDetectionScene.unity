@@ -550,6 +550,7 @@ MonoBehaviour:
   m_Speed: 12
   m_TurnSpeed: 180
   m_WheelRotateSpeed: 90
+  m_turretDelaySpeed: 1.2
 --- !u!65 &537502877
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3871,6 +3872,7 @@ MonoBehaviour:
   m_MinLaunchForce: 15
   m_MaxLaunchForce: 30
   m_MaxChargeTime: 0.75
+  sizeChange: {x: 0, y: 0, z: 0}
 --- !u!1001 &859416599
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4201,7 +4203,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1005760422}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.2127686, y: 4.250311, z: 7.4758244}
+  m_LocalPosition: {x: -1.2127686, y: 4.250311, z: 7.462}
   m_LocalScale: {x: 6.758893, y: 6.758893, z: 6.758893}
   m_Children: []
   m_Father: {fileID: 1735317402}
