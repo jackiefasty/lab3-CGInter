@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 475f73f236fe4594e93534be2416aa0c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ashes
+    100002: crossbar
+    100004: Cylinder004
+    100006: Cylinder015
+    100008: Cylinder016
+    100010: //RootNode
+    100012: GeoSphere002
+    100014: GeoSphere003
+    100016: GeoSphere004
+    100018: GeoSphere005
+    100020: GeoSphere006
+    100022: GeoSphere007
+    100024: GeoSphere008
+    100026: GeoSphere009
+    100028: GeoSphere010
+    100030: GeoSphere011
+    100032: GeoSphere012
+    100034: GeoSphere013
+    100036: GeoSphere015
+    100038: GeoSphere016
+    100040: GeoSphere017
+    100042: GeoSphere018
+    100044: GeoSphere019
+    100046: GeoSphere020
+    100048: GeoSphere021
+    100050: half_wood
+    100052: half_wood2
+    100054: half_wood3
+    100056: kazanok
+    100058: Pillar1
+    100060: pillar2
+    100062: quad_wood1
+    100064: 'quad_wood2 '
+    100066: quad_wood3
+    100068: quad_wood4
+    100070: rock
+    100072: rocks
+    100074: wire
+    100076: wood
+    400000: ashes
+    400002: crossbar
+    400004: Cylinder004
+    400006: Cylinder015
+    400008: Cylinder016
+    400010: //RootNode
+    400012: GeoSphere002
+    400014: GeoSphere003
+    400016: GeoSphere004
+    400018: GeoSphere005
+    400020: GeoSphere006
+    400022: GeoSphere007
+    400024: GeoSphere008
+    400026: GeoSphere009
+    400028: GeoSphere010
+    400030: GeoSphere011
+    400032: GeoSphere012
+    400034: GeoSphere013
+    400036: GeoSphere015
+    400038: GeoSphere016
+    400040: GeoSphere017
+    400042: GeoSphere018
+    400044: GeoSphere019
+    400046: GeoSphere020
+    400048: GeoSphere021
+    400050: half_wood
+    400052: half_wood2
+    400054: half_wood3
+    400056: kazanok
+    400058: Pillar1
+    400060: pillar2
+    400062: quad_wood1
+    400064: 'quad_wood2 '
+    400066: quad_wood3
+    400068: quad_wood4
+    400070: rock
+    400072: rocks
+    400074: wire
+    400076: wood
+    2100000: ash
+    2100002: pillar2
+    2100004: 04 - pillar1
+    2100006: crossbar
+    2100008: 10 - Default
+    2100010: rock
+    2100012: wood
+    2100014: wood_half
+    2100016: wood_quad
+    2300000: ashes
+    2300002: crossbar
+    2300004: Cylinder004
+    2300006: Cylinder015
+    2300008: Cylinder016
+    2300010: GeoSphere002
+    2300012: GeoSphere003
+    2300014: GeoSphere004
+    2300016: GeoSphere005
+    2300018: GeoSphere006
+    2300020: GeoSphere007
+    2300022: GeoSphere008
+    2300024: GeoSphere009
+    2300026: GeoSphere010
+    2300028: GeoSphere011
+    2300030: GeoSphere012
+    2300032: GeoSphere013
+    2300034: GeoSphere015
+    2300036: GeoSphere016
+    2300038: GeoSphere017
+    2300040: GeoSphere018
+    2300042: GeoSphere019
+    2300044: GeoSphere020
+    2300046: GeoSphere021
+    2300048: half_wood
+    2300050: half_wood2
+    2300052: half_wood3
+    2300054: Pillar1
+    2300056: pillar2
+    2300058: quad_wood1
+    2300060: 'quad_wood2 '
+    2300062: quad_wood3
+    2300064: quad_wood4
+    2300066: rock
+    2300068: wire
+    3300000: ashes
+    3300002: crossbar
+    3300004: Cylinder004
+    3300006: Cylinder015
+    3300008: Cylinder016
+    3300010: GeoSphere002
+    3300012: GeoSphere003
+    3300014: GeoSphere004
+    3300016: GeoSphere005
+    3300018: GeoSphere006
+    3300020: GeoSphere007
+    3300022: GeoSphere008
+    3300024: GeoSphere009
+    3300026: GeoSphere010
+    3300028: GeoSphere011
+    3300030: GeoSphere012
+    3300032: GeoSphere013
+    3300034: GeoSphere015
+    3300036: GeoSphere016
+    3300038: GeoSphere017
+    3300040: GeoSphere018
+    3300042: GeoSphere019
+    3300044: GeoSphere020
+    3300046: GeoSphere021
+    3300048: half_wood
+    3300050: half_wood2
+    3300052: half_wood3
+    3300054: Pillar1
+    3300056: pillar2
+    3300058: quad_wood1
+    3300060: 'quad_wood2 '
+    3300062: quad_wood3
+    3300064: quad_wood4
+    3300066: rock
+    3300068: wire
+    4300000: ashes
+    4300002: pillar2
+    4300004: Pillar1
+    4300006: crossbar
+    4300008: Cylinder016
+    4300010: Cylinder015
+    4300012: GeoSphere021
+    4300014: GeoSphere020
+    4300016: GeoSphere019
+    4300018: GeoSphere018
+    4300020: GeoSphere017
+    4300022: GeoSphere016
+    4300024: GeoSphere015
+    4300026: GeoSphere013
+    4300028: GeoSphere012
+    4300030: GeoSphere011
+    4300032: GeoSphere010
+    4300034: GeoSphere009
+    4300036: GeoSphere008
+    4300038: GeoSphere007
+    4300040: GeoSphere006
+    4300042: GeoSphere005
+    4300044: GeoSphere003
+    4300046: rock
+    4300048: GeoSphere002
+    4300050: GeoSphere004
+    4300052: Cylinder004
+    4300054: half_wood
+    4300056: half_wood2
+    4300058: quad_wood4
+    4300060: quad_wood3
+    4300062: quad_wood1
+    4300064: 'quad_wood2 '
+    4300066: half_wood3
+    4300068: wire
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - pillar1
+    second: {fileID: 2100000, guid: 35ed40e84b13d0645ad96cace65c4d34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: 6a09ca79e71104f48a1d619aaf0a7c45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ash
+    second: {fileID: 2100000, guid: 1a37c68103afd5748b1d13061d36bc54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crossbar
+    second: {fileID: 2100000, guid: 12b09dc94f3b8ca4481792b7acbb6f63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar2
+    second: {fileID: 2100000, guid: 4ff5f2a0ae0a7a548a9bb97a486f5ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rock
+    second: {fileID: 2100000, guid: db2670c8173cd5f4d895f65b475032a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: 6885bd3d0b1fd844bb89eecba97c76d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_half
+    second: {fileID: 2100000, guid: 3cd231d6014af1a4a8d520eaa17a4b46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_quad
+    second: {fileID: 2100000, guid: f4d36f27851e25041b38919c242a3571, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

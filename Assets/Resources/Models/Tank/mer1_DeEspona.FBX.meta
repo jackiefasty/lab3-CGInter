@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: e93c3186fa0a16140a550fd6cfe84953
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: M-ametralladora
+    100002: M-base cesta
+    100004: M-cadena de la torreta
+    100006: M-carcasa
+    100008: M-carcasa BUMP
+    100010: "M-ca\xF1on"
+    100012: M-cesta
+    100014: M-compuerta torreta redonda
+    100016: M-COMUERTA CARCASA
+    100018: M-cuerda torreta
+    100020: M-EMBLEMA TRASERO DERECHO
+    100022: M-EMBLEMA TRASERO IZQUIERDO
+    100024: M-lateral derecho
+    100026: M-lateral izquierdo
+    100028: M-laterales delanteros
+    100030: M-ORUGA
+    100032: M-ORUGA1
+    100034: M-pala
+    100036: M-puerta trasera1
+    100038: M-puerta trasera2
+    100040: M-RUEDA1
+    100042: M-RUEDA10
+    100044: M-RUEDA11
+    100046: M-RUEDA12
+    100048: M-RUEDA13
+    100050: M-RUEDA14
+    100052: M-RUEDA15
+    100054: M-RUEDA16
+    100056: M-RUEDA2
+    100058: M-RUEDA3
+    100060: M-RUEDA4
+    100062: M-RUEDA5
+    100064: M-RUEDA6
+    100066: M-RUEDA7
+    100068: M-RUEDA8
+    100070: M-RUEDA9
+    100072: "M-tela ca\xF1on"
+    100074: M-torreta
+    100076: M-torreta bump
+    100078: M-trampilla torreta
+    100080: //RootNode
+    400000: M-ametralladora
+    400002: M-base cesta
+    400004: M-cadena de la torreta
+    400006: M-carcasa
+    400008: M-carcasa BUMP
+    400010: "M-ca\xF1on"
+    400012: M-cesta
+    400014: M-compuerta torreta redonda
+    400016: M-COMUERTA CARCASA
+    400018: M-cuerda torreta
+    400020: M-EMBLEMA TRASERO DERECHO
+    400022: M-EMBLEMA TRASERO IZQUIERDO
+    400024: M-lateral derecho
+    400026: M-lateral izquierdo
+    400028: M-laterales delanteros
+    400030: M-ORUGA
+    400032: M-ORUGA1
+    400034: M-pala
+    400036: M-puerta trasera1
+    400038: M-puerta trasera2
+    400040: M-RUEDA1
+    400042: M-RUEDA10
+    400044: M-RUEDA11
+    400046: M-RUEDA12
+    400048: M-RUEDA13
+    400050: M-RUEDA14
+    400052: M-RUEDA15
+    400054: M-RUEDA16
+    400056: M-RUEDA2
+    400058: M-RUEDA3
+    400060: M-RUEDA4
+    400062: M-RUEDA5
+    400064: M-RUEDA6
+    400066: M-RUEDA7
+    400068: M-RUEDA8
+    400070: M-RUEDA9
+    400072: "M-tela ca\xF1on"
+    400074: M-torreta
+    400076: M-torreta bump
+    400078: M-trampilla torreta
+    400080: //RootNode
+    2100000: M-BASE
+    2100002: M-oruga
+    2100004: M-LATERAL IZQ
+    2100006: M-LATERAL DER
+    2100008: M-EMBLEMA TRAS
+    2100010: M-BASEBUMP
+    2100012: M-CADENA
+    2100014: M-CESTA
+    2100016: M-oruga BUMP
+    2100018: LLANTA
+    2100020: GOMA
+    2300000: M-ametralladora
+    2300002: M-base cesta
+    2300004: M-cadena de la torreta
+    2300006: M-carcasa
+    2300008: M-carcasa BUMP
+    2300010: "M-ca\xF1on"
+    2300012: M-cesta
+    2300014: M-compuerta torreta redonda
+    2300016: M-COMUERTA CARCASA
+    2300018: M-cuerda torreta
+    2300020: M-EMBLEMA TRASERO DERECHO
+    2300022: M-EMBLEMA TRASERO IZQUIERDO
+    2300024: M-lateral derecho
+    2300026: M-lateral izquierdo
+    2300028: M-laterales delanteros
+    2300030: M-ORUGA
+    2300032: M-ORUGA1
+    2300034: M-pala
+    2300036: M-puerta trasera1
+    2300038: M-puerta trasera2
+    2300040: M-RUEDA1
+    2300042: M-RUEDA10
+    2300044: M-RUEDA11
+    2300046: M-RUEDA12
+    2300048: M-RUEDA13
+    2300050: M-RUEDA14
+    2300052: M-RUEDA15
+    2300054: M-RUEDA16
+    2300056: M-RUEDA2
+    2300058: M-RUEDA3
+    2300060: M-RUEDA4
+    2300062: M-RUEDA5
+    2300064: M-RUEDA6
+    2300066: M-RUEDA7
+    2300068: M-RUEDA8
+    2300070: M-RUEDA9
+    2300072: "M-tela ca\xF1on"
+    2300074: M-torreta
+    2300076: M-torreta bump
+    2300078: M-trampilla torreta
+    3300000: M-ametralladora
+    3300002: M-base cesta
+    3300004: M-cadena de la torreta
+    3300006: M-carcasa
+    3300008: M-carcasa BUMP
+    3300010: "M-ca\xF1on"
+    3300012: M-cesta
+    3300014: M-compuerta torreta redonda
+    3300016: M-COMUERTA CARCASA
+    3300018: M-cuerda torreta
+    3300020: M-EMBLEMA TRASERO DERECHO
+    3300022: M-EMBLEMA TRASERO IZQUIERDO
+    3300024: M-lateral derecho
+    3300026: M-lateral izquierdo
+    3300028: M-laterales delanteros
+    3300030: M-ORUGA
+    3300032: M-ORUGA1
+    3300034: M-pala
+    3300036: M-puerta trasera1
+    3300038: M-puerta trasera2
+    3300040: M-RUEDA1
+    3300042: M-RUEDA10
+    3300044: M-RUEDA11
+    3300046: M-RUEDA12
+    3300048: M-RUEDA13
+    3300050: M-RUEDA14
+    3300052: M-RUEDA15
+    3300054: M-RUEDA16
+    3300056: M-RUEDA2
+    3300058: M-RUEDA3
+    3300060: M-RUEDA4
+    3300062: M-RUEDA5
+    3300064: M-RUEDA6
+    3300066: M-RUEDA7
+    3300068: M-RUEDA8
+    3300070: M-RUEDA9
+    3300072: "M-tela ca\xF1on"
+    3300074: M-torreta
+    3300076: M-torreta bump
+    3300078: M-trampilla torreta
+    4300000: M-trampilla torreta
+    4300002: M-torreta bump
+    4300004: M-torreta
+    4300006: "M-tela ca\xF1on"
+    4300008: M-puerta trasera2
+    4300010: M-puerta trasera1
+    4300012: M-pala
+    4300014: M-laterales delanteros
+    4300016: M-lateral izquierdo
+    4300018: M-lateral derecho
+    4300020: M-EMBLEMA TRASERO IZQUIERDO
+    4300022: M-EMBLEMA TRASERO DERECHO
+    4300024: M-cuerda torreta
+    4300026: M-COMUERTA CARCASA
+    4300028: M-compuerta torreta redonda
+    4300030: M-cesta
+    4300032: "M-ca\xF1on"
+    4300034: M-carcasa BUMP
+    4300036: M-carcasa
+    4300038: M-cadena de la torreta
+    4300040: M-base cesta
+    4300042: M-ametralladora
+    4300044: M-ORUGA1
+    4300046: M-RUEDA14
+    4300048: M-RUEDA15
+    4300050: M-RUEDA12
+    4300052: M-RUEDA11
+    4300054: M-RUEDA10
+    4300056: M-RUEDA9
+    4300058: M-RUEDA16
+    4300060: M-RUEDA6
+    4300062: M-RUEDA7
+    4300064: M-RUEDA4
+    4300066: M-RUEDA3
+    4300068: M-RUEDA2
+    4300070: M-RUEDA1
+    4300072: M-RUEDA5
+    4300074: M-RUEDA8
+    4300076: M-RUEDA13
+    4300078: M-ORUGA
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

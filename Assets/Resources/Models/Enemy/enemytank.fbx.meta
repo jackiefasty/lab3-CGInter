@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: e7eea378d0a0a914881079afe859f031
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base_Bone
+    100002: //RootNode
+    100004: Gun_Bone
+    100006: LeftWheel10_bone
+    100008: LeftWheel11_bone
+    100010: LeftWheel12_bone
+    100012: LeftWheel13_bone
+    100014: LeftWheel1_bone
+    100016: LeftWheel2_bone
+    100018: LeftWheel3_bone
+    100020: LeftWheel4_bone
+    100022: LeftWheel5_bone
+    100024: LeftWheel6_bone
+    100026: LeftWheel7_bone
+    100028: LeftWheel8_bone
+    100030: LeftWheel9_bone
+    100032: MC-1_Armature
+    100034: MC-1_Base
+    100036: MC-1_LeftTrack
+    100038: MC-1_RightTrack
+    100040: RightWheel10_Bone
+    100042: RightWheel11_Bone
+    100044: RightWheel12_Bone
+    100046: RightWheel13_Bone
+    100048: RightWheel1_Bone
+    100050: RightWheel2_Bone
+    100052: RightWheel3_Bone
+    100054: RightWheel4_Bone
+    100056: RightWheel5_Bone
+    100058: RightWheel6_Bone
+    100060: RightWheel7_Bone
+    100062: RightWheel8_Bone
+    100064: RightWheel9_Bone
+    100066: Tower_Bone
+    400000: Base_Bone
+    400002: //RootNode
+    400004: Gun_Bone
+    400006: LeftWheel10_bone
+    400008: LeftWheel11_bone
+    400010: LeftWheel12_bone
+    400012: LeftWheel13_bone
+    400014: LeftWheel1_bone
+    400016: LeftWheel2_bone
+    400018: LeftWheel3_bone
+    400020: LeftWheel4_bone
+    400022: LeftWheel5_bone
+    400024: LeftWheel6_bone
+    400026: LeftWheel7_bone
+    400028: LeftWheel8_bone
+    400030: LeftWheel9_bone
+    400032: MC-1_Armature
+    400034: MC-1_Base
+    400036: MC-1_LeftTrack
+    400038: MC-1_RightTrack
+    400040: RightWheel10_Bone
+    400042: RightWheel11_Bone
+    400044: RightWheel12_Bone
+    400046: RightWheel13_Bone
+    400048: RightWheel1_Bone
+    400050: RightWheel2_Bone
+    400052: RightWheel3_Bone
+    400054: RightWheel4_Bone
+    400056: RightWheel5_Bone
+    400058: RightWheel6_Bone
+    400060: RightWheel7_Bone
+    400062: RightWheel8_Bone
+    400064: RightWheel9_Bone
+    400066: Tower_Bone
+    2100000: MC-1_Base_M
+    2100002: MC-1_Tracks_M
+    2300000: MC-1_LeftTrack
+    2300002: MC-1_RightTrack
+    3300000: MC-1_LeftTrack
+    3300002: MC-1_RightTrack
+    4300000: MC-1_Base
+    4300002: MC-1_LeftTrack
+    4300004: MC-1_RightTrack
+    9500000: //RootNode
+    13700000: MC-1_Base
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MC-1_Base_M
+    second: {fileID: 2100000, guid: 637350e55ba21924b8424dbf25e7fa19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MC-1_Tracks_M
+    second: {fileID: 2100000, guid: 8a1f21aa825dc5f47b85d8dc8c2f9567, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
