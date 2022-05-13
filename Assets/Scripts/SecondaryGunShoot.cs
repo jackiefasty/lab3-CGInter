@@ -87,7 +87,13 @@ public class SecondaryGunShoot : MonoBehaviour
         if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out shootHit, Mathf.Infinity, layerMask)) //if there is a rock in the front (...i.e. if it hits something)
         {
             gunLine.SetPosition(1, transform.TransformDirection(Vector3.forward) * shootHit.distance); //ray should be stopped by the object being hit
-            Debug.Log("Did Hit");
+            Debug.Log("Did Hit" + " " + shootHit.collider.gameObject.name + " " + shootHit.collider.gameObject.tag);
+
+            if (shootHit.collider.gameObject.tag == "enemy")
+            {
+                Destroy(shootHit.collider.gameObject); //here we destroy the object which the laser impacted with
+
+            }
         }
         else
         {
